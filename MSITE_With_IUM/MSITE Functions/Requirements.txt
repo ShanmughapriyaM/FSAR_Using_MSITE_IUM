@@ -1,0 +1,11 @@
+required_packages = [
+    "torch",
+    "torchvision",
+    "numpy",
+    "cv2",          # opencv-python
+    "sklearn",
+    "matplotlib",
+    "scipy","mediapipe",
+    "tqdm"
+    "pandas"
+]
